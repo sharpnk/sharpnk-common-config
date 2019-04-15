@@ -1,0 +1,10 @@
+{
+  "title": "Ant",
+  "cells": [
+    {
+      "type": "code",
+      "language": "sh",
+      "data": "#Publish dependency locally\nivy-publish-local"
+    }
+  ]
+}
